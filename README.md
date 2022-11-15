@@ -2,5 +2,5 @@
 - 👀 I’m interested in pragramming, coding and Pies
 - 🌱 I’m currently coding on java 
 - 💞️ I’m looking to collaborate on pepoles who give me something new
-- 📫 How to reach me : email
+- 📫 How to reach me : alexrusskin@inbox.ru
 - 😤 https://stepik.org/cert/1771373 Certificate STEPIK
